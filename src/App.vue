@@ -9,17 +9,16 @@
 
 <script>
 export default {
-  name: "app"
+  name: "app",
 };
 </script>
 
 <style lang="scss">
 @import url("https://fonts.googleapis.com/css?family=Bangers|Permanent+Marker|Graduate:400,700");
 
-
 // main css
 body {
-  background-color: #999;
+  background-color: #0071c5;
   //background-color: #0071c5;
   line-height: 1;
 }
@@ -107,7 +106,7 @@ h3,
 h4 {
   text-align: left;
 }
-// 
+//
 
 // .at-related
 .at-card {
@@ -285,5 +284,4 @@ h4 {
   padding-bottom: 10px;
 }
 // end super-related
-
 </style>
